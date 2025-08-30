@@ -62,7 +62,7 @@ yarn install
 
 Run the app
 ```
-npx expo start
+npm run dev
 ```
 # Logs
 logs
